@@ -8,7 +8,7 @@ Requirements
 
 Usage
 --------
-In order to run the system, you need `parallel corpora` and the `Apertium dictionaries` or other dictionaries in the same format. I have made the parallel corpora I used in the TIAD 2021 shared task available for download. [Dropbox] The apertium dictionaries are available [here](https://tiad2021.unizar.es/data/TransSets_ApertiumRDFv2_1_CSV.zip).  
+In order to run the system, you need `parallel corpora` and the `Apertium dictionaries` or other dictionaries in the same format. I have made the parallel corpora I used in the TIAD 2021 shared task available for [download](https://www.dropbox.com/sh/8i0q2iphmdre1m4/AADr4OYyhUZP_TmDPilcfRsOa?dl=0). The apertium dictionaries are available [here](https://tiad2021.unizar.es/data/TransSets_ApertiumRDFv2_1_CSV.zip).  
 
 We assume you place the parallel corpora under `PivotAlign/parallel` and the Apertium dictionaries under `PivotAlign/Apertium`. The corpora have been tokenized and lemmatized using SpaCy.
 
